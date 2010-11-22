@@ -1,87 +1,54 @@
-Daniel Mayer  
-dan@mayerdan.com  
-503-819-3246  
-821 Maryland Ave NE #305  
-Washington, DC 20002  
+Christian Wattengård
+cwattengard@gmail.com
+45280617
+Rypevegen 3
+7082 Kattem
 
-[GitHub](http://github.com/danmayer)  
-[Blog](http://mayerdan.com)  
+[GitHub](http://github.com/cwattengard)  
+[Blog](http://blog.wattengard.no)  
 
 Skills
 ----------------
 
-* Ruby
-  * Rails
-  * Sinatra
-  * Merb
-  * EventMachine
-  * DataMapper
-  * Custom EventMachine-based protocols
+* .NET
+  * C#
+  * VB.NET
+  * ASP.NET (2.0,3.5,4.0)
+  * WinForms
 
-* Tools
+* Andre
+  * Ruby
+  * ASP 3.0
+  * Visual Basic 6.0
+
+* Verktøy
   * Linux
-  * OS X
-  * Javascript (JQuery/Prototype)
-  * HTML
-  * Amazon Web Services (Ec2, SimpleDB, S3, SQS)
-  * Distributed Computing
-  * Apache
-  * MySQL
-  * PostgreSQL
-  * Schemaless DBs (NoSql)
-  * RESTul webservice API's
+  * Javascript (JQuery)
+  * HTML/CSS
+  * MS SQL Server
 
-* Style
-  * Pair Programming
-  * Test-Focused Development
-  * Distributed Teams
-  * Agile team management
-  * Contributor to Ruby OSS software
-  * Active on Github
-
-Work Experience
+Relevant arbeidserfaring
 ---------------
-__LivingSocial__  
-Software Developer  
-June 2010 - Current  
-Working with a small team of developers to grow LivingSocial. Working on mobile apps, mobile site, APIs, and backend tools.  
+__Hjelp24 Sensus__  
+Utvikler
+September 2008 - Nå
+Jobber med utvikling og vedlikehold av www.makesense.no og tilhørende verktøy.
 
-__Devver__  
-Founder / CTO / Ruby Software Developer  
-April 2008 - April 2010  
-Software startup to make the lives of developers easier. Originally developed accelerated testing for Ruby developers. More recently, launched getcaliper.com, which builds code analytics for all Rubygems and builds metrics for public and private git-based Ruby projects.  
+__Vital__  
+Kundebehandler, pensjon / Tester
+Januar 2008 - September 2008
+Jobbet med mottak, modifisering og kjøring av XML-basert data for pensjonssparing. Jobbet litt med testing mot slutten.
 
-* Built accelerated testing tool, using distributed computing services to run developer tests
-* Developed a cloud-based continuous integration server and notification services
-* Developed cloud-based code metrics and analytics project analyzer, which integrated with Rubygems.org to provide analytics on all public Rubygems and many OSS git-based projects (7000+ projects)
-* Member of a distributed agile team -- practiced daily standups, remote pair programming, and continuous integration
-* Worked extensively with cloud based services and distributed computing techniques. (EC2, Beanstalkd queues, Schemaless SimpleDB, S3)
-* Developed and deployed EventMachine, Merb, Rails, and Sinatra in production environments
+__Aditro__  
+Utvikler
+August 2007 - Desember 2007
+Jobbet med tilpasning av VB6-applikasjon for import og eksport av XML-basert data.
 
-__Pretheory__  
-Founder  
-May 2007 - April 2008  
-Small Denver-based consumer web startup. Built [Seekler.com](http://seekler.com) to help people find the best of everything online by user generated, community-based top 10 lists on topics or products. Seekler was a social way to rank things with friends or the entire community.  
-
-__Indigio__  
-Java Lead Engineer  
-August 2006 - May 2007  
-Developed web sites for Fortune 500 companies. Managed a small Java team with local and international remote employees.  
-
-* Developed and deployed large scale newspaper, real estate, and car rental companies Java sites
-
-
-__Impact Science & Technology (IST)__  
-Java Software Engineer  
-December 2005 - June 2006  
-Developed full lifecycle of a DOD distributed synchronous infrastructure in Java.  
-
-
-Education
+Utdanning
 ---------------  
-University of Colorado  
-Boulder, CO  
-B.S., Computer Science  
-GPA: 3.185  
+Høgskolen i Sør-Trøndelag 
+Trondheim
+Bachelor i Systemutvikling
 
-_References available on request_  
+
+_Referanser oppgis på forespørsel_
