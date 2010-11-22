@@ -5,7 +5,8 @@ Rypevegen 3
 7082 Kattem
 
 [GitHub](http://github.com/cwattengard)  
-[Blog](http://blog.wattengard.no)  
+[Twitter: @wattengard](http://twitter.com/wattengard)
+[LinkedIn](http://no.linkedin.com/pub/christian-watteng%C3%A5rd/26/7a6/b72)
 
 Kunnskaper
 ----------------
@@ -53,6 +54,10 @@ Høgskolen i Sør-Trøndelag
 Trondheim
 Bachelor i Systemutvikling
 
+Egne prosjekter
+---------------
+* [mspc.no](http://mspc.no) - Et forum for mediesenterinteressen i Norge
+* [epg.no](http://data.epg.no/xmltv) - TV-programdata for brukere av mediesenter
 
 _Referanser oppgis på forespørsel_
 
