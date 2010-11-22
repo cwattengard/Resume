@@ -8,7 +8,7 @@ require 'rdiscount'
 require 'maruku'
 
 get '/' do
-   title = resume_data.split("\n").first
+   title = resume_data.lines.first.strip
    #oops 1.8.7 only?
     #resume_data.lines.first.strip
    resume = RDiscount.new(resume_data, :smart).to_html

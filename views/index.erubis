@@ -2,6 +2,7 @@
 <head>
    <title><%= title %></title>
    <link href="style.css" media="screen" rel="stylesheet" type="text/css" />
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
 <body>
    <% if defined? formats && formats %>
