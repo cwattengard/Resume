@@ -7,7 +7,7 @@ Rypevegen 3
 [GitHub](http://github.com/cwattengard)  
 [Blog](http://blog.wattengard.no)  
 
-Skills
+Kunnskaper
 ----------------
 
 * .NET
@@ -18,6 +18,9 @@ Skills
 
 * Andre
   * Ruby
+    * Rails*
+	* Sinatra*
+    * Nokogiri*
   * ASP 3.0
   * Visual Basic 6.0
 
@@ -52,3 +55,5 @@ Bachelor i Systemutvikling
 
 
 _Referanser oppgis på forespørsel_
+
+_Kunnskapspunkter merket med stjerne betyr "grunnleggende kjennskap"_
