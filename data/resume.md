@@ -4,8 +4,10 @@ cwattengard@gmail.com
 Rypevegen 3
 7082 Kattem
 
-[GitHub](http://github.com/cwattengard)  
+[GitHub](http://github.com/cwattengard)
+
 [Twitter: @wattengard](http://twitter.com/wattengard)
+
 [LinkedIn](http://no.linkedin.com/pub/christian-watteng%C3%A5rd/26/7a6/b72)
 
 Kunnskaper
